@@ -12,3 +12,6 @@ def test_array(array)
     x**2
   end
 end
+sample = [1, 2, 3, 4, 5]
+
+test_array(sample)
