@@ -11,6 +11,7 @@ def test_array(array)
   array.collect do |x|
     x**2
   end
+  puts array
 end
 sample = [1, 2, 3, 4, 5]
 
